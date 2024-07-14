@@ -4,9 +4,9 @@
 	"by":"Iron Bloke, Borka, last update 2024-07-14 by Abetillo",
 	"sections":[
 		{"name":"DEATH KORPS CORE COMPANIES", "formations":[
-			{ "id":501, "name":"Regimental HQ", "pts":400, "units":"Death Korps Supreme Commander, 19 Death Korps Infantry" , "upgrades":[102,107,105,108,109,111,114,121,122] },
-			{ "id":502, "name":"Infantry Company", "pts":300, "units":"Death Korps Commander, 19 Death Korps Infantry", "upgrades":[102,107,105,108,109,111,114,121,122] },
-			{ "id":503, "name":"Death Rider Company", "pts":250, "units":"12 Death Korps Rough Riders", "upgrades":[102,105,109,111,114,121,122] }
+			{ "id":501, "name":"Regimental HQ", "pts":400, "units":"Death Korps Supreme Commander, 19 Death Korps Infantry" , "upgrades":[114,107,108,109,105,111,102,121,122] },
+			{ "id":502, "name":"Infantry Company", "pts":300, "units":"Death Korps Commander, 19 Death Korps Infantry", "upgrades":[114,107,108,109,105,111,102,121,122] },
+			{ "id":503, "name":"Death Rider Company", "pts":250, "units":"12 Death Korps Rough Riders", "upgrades":[114,109,105,111,102,121,122] }
 		]},
 		{"name":"SUPPORT FORMATIONS", "formations":[
 			{ "id":511, "name":"Grenadiers Platoon", "pts":225, "units":"8 Death Korps Grenadiers", "upgrades":[51,53] },
@@ -26,11 +26,11 @@
 			{ "id":526, "name":"Trenchworks", "pts":75, "units":"4 Bunkers and 80cm of Trenches"}
 		]},
 		{"name":"IMPERIAL NAVY", "formations":[
-			{ "id":531, "name":"Thunderbolt Fighters", "pts":150, "units":"2 Thunderbolts"},
+			{ "id":531, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters"},
 			{ "id":532, "name":"Marauder Heavy Bomber", "pts":150}
 		]},
 		{"name":"TITAN LEGIONS", "formations":[
-			{ "id":536, "name":"Warlord Titan", "pts":850, "upgrades":[] },
+			{ "id":536, "name":"Warlord Titan", "pts":825, "upgrades":[] },
 			{ "id":537, "name":"Reaver Titan", "pts":650, "upgrades":[] },
 			{ "id":538, "name":"Warhound Pack", "pts":500, "units":"2 Warhounds", "upgrades":[] }
 		]}	
@@ -57,9 +57,9 @@
 		{ "id":47, "name":"3 Gun Emplacements", "pts":0 },
 		{ "id":51, "name":"8 Centaurs", "pts":75 },
 		{ "id":53, "name":"Gorgon", "pts":75 },
+		
 		{ "id":114, "name":"Fire Support Battery (6 Fire Support)", "pts":75 },
 		{ "id":111, "name":"Infantry Platoon (10 Death Korps Infantry)", "pts":175 },
-		
 		{ "id":103, "name":"Macharius", "pts":75 },
 		{ "id":104, "name":"Macharius Command Tank", "pts":0 },
 		{ "id":109, "name":"Heavy Tank (Macharius)", "pts":125 },
